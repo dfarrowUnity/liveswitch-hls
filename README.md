@@ -63,6 +63,11 @@ Open a web browser and navigate to the URL. You should see the standard LiveSwit
 
 Open a new browser tab and navigate to [http://localhost:3000](http://localhost:3000). You should see a list of live recordings, including the one that is currently active!
 
+
+Download the [Unity Liveswitch Sender app from here](https://drive.google.com/file/d/1z2e3x-ze7nBgf6hgwy4NX0151DZAYnFa/view?usp=sharing). 
+
+Run it and it will start sending audio/video data.
+
 ## Troubleshooting
 
 If you are using macOS or Linux, you may need to set the executable bit on `lsconnect`:
