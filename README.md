@@ -24,7 +24,7 @@ Update `applicationId` and `sharedSecret` in `app.ts` to your LiveSwitch applica
 First, make sure "express" is installed. In a terminal, browse to `src/FM.LiveSwitch.Hls` and type:
 
 ```shell
-npm install express
+npm install
 ```
 
 In a terminal, browse to `src/FM.LiveSwitch.Hls` and type:
