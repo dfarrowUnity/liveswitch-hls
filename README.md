@@ -21,6 +21,12 @@ The LiveSwitch HLS Demo was built using Node.js and TypeScript. It is provided a
 
 Update `applicationId` and `sharedSecret` in `app.ts` to your LiveSwitch application ID and shared secret.
 
+First, make sure "express" is installed. In a terminal, browse to `src/FM.LiveSwitch.Hls` and type:
+
+```shell
+npm install express
+```
+
 In a terminal, browse to `src/FM.LiveSwitch.Hls` and type:
 
 ```shell
