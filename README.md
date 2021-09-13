@@ -27,6 +27,8 @@ First, make sure "express" is installed. In a terminal, browse to `src/FM.LiveSw
 npm install
 ```
 
+Create the 'hls' directory under 'static' -> .\src\FM.LiveSwitch.Hls\static\hls
+
 In a terminal, browse to `src/FM.LiveSwitch.Hls` and type:
 
 ```shell
